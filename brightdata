@@ -11,7 +11,7 @@ perr[-.]
 dns-test?[-.]	
 http-test?[-.]	
 	
-(\.|^)peer5\.com	$
+(\.|^)peer5\.com$
 
 in.appcenter.ms	
 sdk.ninjatech.io	
