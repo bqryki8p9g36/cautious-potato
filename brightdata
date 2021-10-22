@@ -1,0 +1,17 @@
+(\.|^)luminatinet\.com$	
+(\.|^)luminati\.io$	
+(\.|^)hola\.org$	
+(\.|^)s-microsoft\.com$	
+(\.|^)h-vpn\.org$	
+(\.|^)lumtest\.com$	
+(\.|^)lum-sdk\.io$	
+
+proxyjs[-.]	
+perr[-.]	
+dns-test?[-.]	
+http-test?[-.]	
+	
+(\.|^)peer5\.com	$
+
+in.appcenter.ms	
+sdk.ninjatech.io	
